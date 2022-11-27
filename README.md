@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nullxjx
 - 🎓 I got my master's degree from NJU majoring in computer science
 - 👨‍💻 I’m currently working in Tencent as a backend software engineer
-- 📫 Contact me through my email thexjx@gmail.com
+- 📫 Contact me via my email thexjx@gmail.com
 
 <!---
 nullxjx/nullxjx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
