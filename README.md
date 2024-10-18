@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nullxjx
-- 🎓 I got my master's degree from NJU majoring in computer science
-- 👨‍💻 I’m currently working in Tencent as a backend software engineer
+- 🎓 I get my master's degree from [NJU](https://cs.nju.edu.cn/) majoring in computer science
+- 👨‍💻 I’m currently working in [Tencent](https://www.tencent.com/) as a backend software engineer
 - 📫 Contact me via my email thexjx@gmail.com
 
 <!---
